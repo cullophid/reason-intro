@@ -1,13 +1,4 @@
-This is a repo with examples usages of [ReasonReact](https://github.com/reasonml/reason-react).
-Have something you don't understand? Join us on [Discord](https://discord.gg/reasonml)!
+# introduction to resonml
 
-Run this project:
-
-```
-npm install
-npm start
-# in another tab
-npm run build
-```
-
-After you see the webpack compilation succeed (the `npm run build` step), open up the nested html files in `src/*` (**no server needed!**). Then modify whichever file in `src` and refresh the page to see the changes.
+start by reading the file intro.re in src/tutorial
+if you want to run any of the code use [the online playground](https://reasonml.github.io/try)
